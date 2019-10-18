@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">TimeTable</string>
+    <string name="navigation_drawer_open">Відкрити navigation drawer</string>
+    <string name="navigation_drawer_close">Закрити navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Налаштування</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">Понеділок</string>
+    <string name="tuesday">Вівторок</string>
+    <string name="wednesday">Середа</string>
+    <string name="thursday">Четвер</string>
+    <string name="friday">П\'ятниця</string>
+    <string name="saturday">Субота</string>
+    <string name="sunday">Неділя</string>
+    <string name="select_snackbar">Будь ласка, виберіть 1 елемент.</string>
+    <string name="selected">Обрано</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable">TimeTable</string>
+    <string name="ulan_nurymov_gmail_com">ulan.nurymov@gmail.com</string>
+    <string name="seven_days_of_the_week">7 днів на тиждень</string>
+    <string name="subject">Об\'єкт</string>
+    <string name="field_error">Поле не може бути порожнім!</string>
+    <string name="time_error">Поле Час не може бути порожнім!</string>
+    <string name="week">Тиждень</string>
+    <string name="delete">Вилучити</string>
+    <string name="edit">Редагувати</string>
+    <string name="school_website">Веб-сайт колледжа</string>
+    <string name="school_website_snackbar">Будь ласка, встановіть URL вашого сайту в настройках.</string>
+
+    <string name="add_subject">Додати об\'єкт</string>
+    <string name="edit_subject">Редагувати об\'єкт</string>
+    <string name="teacher">Учитель</string>
+    <string name="room">Кімната</string>
+    <string name="time">Час</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="time_to_dialog">Кому:</string>
+    <string name="time_from_dialog">Від кого:</string>
+    <string name="subject_dialog">Тема:</string>
+    <string name="teacher_dialog">Учитель:</string>
+    <string name="room_dialog">Кімната:</string>
+    <string name="select_time">Вибрати час</string>
+    <string name="select_color">Вибрати колір</string>
+    <string name="choose_time">Вибрати час</string>
+    <string name="choose_date">Вибрати дату</string>
+    <string name="choose_color">Вибрати колір</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">HomeworksActivity</string>
+    <string name="homeworks">Домашня робота</string>
+    <string name="select_date">Вибрати дату</string>
+    <string name="deadline_dialog">Кінцевий термін:</string>
+    <string name="deadline">Кінцевий термін</string>
+    <string name="description_dialog">Опис:</string>
+    <string name="desctiption">Опис</string>
+    <string name="date_error">Поле дати не може бути порожнім!</string>
+    <string name="edit_homework">Редагувати домашню роботу</string>
+    <string name="add_homework">Додати домашню роботу</string>
+    <string name="deadline_snackbar">Поле крайнього терміну не може бути порожнім!</string>
+    <string name="date">Час</string>
+
+    <!-- Notes Activity strings -->
+    <string name="notes">Нотатки</string>
+    <string name="title_dialog">Заголовок:</string>
+    <string name="add_note">Додати замітку</string>
+    <string name="edit_note">Відредагувати замітку</string>
+    <string name="title_error">Поле заголовка не може бути порожнім!</string>
+    <string name="title">Заголовок</string>
+    <string name="saved">Збережено</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">Вчителі</string>
+    <string name="add_teacher">Додати вчителя</string>
+    <string name="edit_teacher">Змінити вчителя</string>
+    <string name="name_dialog">Iм\'я:</string>
+    <string name="post_dialog">Повідомлення:</string>
+    <string name="phonenumber_dialog">Телефон:</string>
+    <string name="email_dialog">Email:</string>
+    <string name="name">Iм\'я</string>
+    <string name="phone_number">Номер телефону</string>
+    <string name="post">Повідомлення</string>
+    <string name="email">Email</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">Iспити</string>
+    <string name="add_exam">Додати іспит</string>
+    <string name="date_dialog">Дата:</string>
+    <string name="time_dialog">Час:</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting">Включити 7 днів тижня</string>
+    <string name="school_website_setting">Змінити сайт</string>
+    <string name="school_website_setting_summary">Змінити URL вашого сайту</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Сьогоднішні уроки</string>
+    <string name="do_not_have_lessons">У вас немає уроків!</string>
+
+    <string name="en_lang">Увімкнути англійську мову</string>
+    <string name="ru_lang">Увімкнути російську мову</string>
+    <string name="ua_lang">Увімкнути українську мову</string>
+
+    <string-array name="default_colors">
+
+    </string-array>
+
+</resources>
